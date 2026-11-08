@@ -1,0 +1,6 @@
+# Pinned to the exact versions used for the published pilot run (2026-11-07).
+# Upgrade only when starting a new experiment series — record new versions in RUNS.md.
+anthropic==2.6.0
+openai==3.46.0
+python-dotenv==1.2.4
+PyYAML==6.0.3
